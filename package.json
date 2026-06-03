@@ -11,6 +11,7 @@
     "better-sqlite3": "^12.10.0",
     "dotenv": "^17.4.2",
     "express": "^4.18.2",
+    "sequelize": "^6.37.8",
     "sqlite": "^5.1.1",
     "sqlite3": "^6.0.1"
   },
